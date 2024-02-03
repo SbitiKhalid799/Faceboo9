@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/newREPOF9/static/css/main.3b67a2d7.css",
-    "main.js": "/newREPOF9/static/js/main.5fe3b37b.js",
-    "static/js/787.d27c0dcc.chunk.js": "/newREPOF9/static/js/787.d27c0dcc.chunk.js",
-    "static/media/minimal-wallpaper.jpg": "/newREPOF9/static/media/minimal-wallpaper.80cdc545289294413fc9.jpg",
-    "index.html": "/newREPOF9/index.html",
-    "main.3b67a2d7.css.map": "/newREPOF9/static/css/main.3b67a2d7.css.map",
-    "main.5fe3b37b.js.map": "/newREPOF9/static/js/main.5fe3b37b.js.map",
-    "787.d27c0dcc.chunk.js.map": "/newREPOF9/static/js/787.d27c0dcc.chunk.js.map"
+    "main.css": "/A_2/static/css/main.f0cfb043.css",
+    "main.js": "/A_2/static/js/main.fd84ad42.js",
+    "static/js/787.d27c0dcc.chunk.js": "/A_2/static/js/787.d27c0dcc.chunk.js",
+    "static/media/minimal-wallpaper.jpg": "/A_2/static/media/minimal-wallpaper.80cdc545289294413fc9.jpg",
+    "static/media/800px-Facebook_Like_button.svg.png": "/A_2/static/media/800px-Facebook_Like_button.svg.77b08fb4e88ba9c2d963.png",
+    "index.html": "/A_2/index.html",
+    "main.f0cfb043.css.map": "/A_2/static/css/main.f0cfb043.css.map",
+    "main.fd84ad42.js.map": "/A_2/static/js/main.fd84ad42.js.map",
+    "787.d27c0dcc.chunk.js.map": "/A_2/static/js/787.d27c0dcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b67a2d7.css",
-    "static/js/main.5fe3b37b.js"
+    "static/css/main.f0cfb043.css",
+    "static/js/main.fd84ad42.js"
   ]
 }
